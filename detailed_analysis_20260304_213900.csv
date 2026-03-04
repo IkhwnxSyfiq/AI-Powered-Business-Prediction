@@ -1,0 +1,25 @@
+Product_Clean,Price_Numeric,price_segment,is_genuine,is_collab,is_bundle,is_mini,is_hera,is_lou,is_rodeo,ml_score
+Chantelle Bag,495000.0,Premium,0,0,0,0,0,0,0,70
+Milano Bag,465000.0,Premium,0,0,0,0,0,0,0,70
+Hera Bag 2.0,485000.0,Premium,0,0,0,0,1,0,0,80
+Lou Bag 2.0,465000.0,Premium,0,0,0,0,0,1,0,80
+KAMI x Anissa Aziza - Alba Bag,445000.0,Premium,0,1,0,0,0,0,0,90
+Oria Bag,445000.0,Premium,0,0,0,0,0,0,0,70
+Mini Hera Bag 2.0,419000.0,Premium,0,0,0,1,1,0,0,85
+KAMI X Attera - Medium Lou Bag,445000.0,Premium,0,1,0,0,0,1,0,100
+Rodeo Bag,485000.0,Premium,0,0,0,0,0,0,1,80
+Monet Bag,419000.0,Premium,0,0,0,0,0,0,0,70
+Baby Rodeo Bag,99900.0,Budget,0,0,0,1,0,0,1,75
+Lou Bag 2.0 Multicolor,465000.0,Premium,0,0,0,0,0,1,0,80
+KAMI X Attera - Small Lou Bag,395000.0,Mid-Range,0,1,0,0,0,1,0,100
+Marcie Phone Bag,258000.0,Mid-Range,0,0,0,0,0,0,0,50
+Lou Wallet,195000.0,Budget,0,0,0,0,0,1,0,70
+Kora Bag,395000.0,Mid-Range,0,0,0,0,0,0,0,70
+Baby Hera Bag 2.0,99900.0,Budget,0,0,0,1,1,0,0,75
+Bundle Rodeo Bag & Baby Rodeo Bag,550000.0,Premium,0,0,1,1,0,0,1,90
+Portia Tote Bag,495000.0,Premium,0,0,0,0,0,0,0,70
+Small Roche Genuine Leather Bag,799000.0,Luxury,1,0,0,0,0,0,0,85
+Coello Bag,529000.0,Premium,0,0,0,0,0,0,0,50
+Large Roche Genuine Leather Bag,999000.0,Luxury,1,0,0,0,0,0,0,85
+Sanchez Padel Bag,650000.0,Luxury,0,0,0,0,0,0,0,50
+Bundle Coello Padel Bag,750000.0,Luxury,0,0,1,0,0,0,0,65
